@@ -1,2 +1,2 @@
-# SCA100TD02
-This library allows communication with Murata SCA100T-D02 inclinometer sensor using SPI.
+# SCA100T
+This library allows communication with Murata SCA100T-D0x inclinometer sensor using SPI.
